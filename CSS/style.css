@@ -504,7 +504,8 @@
         }
 
         .testimonial_section .card {
-            background: url("/images/testimonial/testimonial-bg.png");
+            background-color: green;
+            background: url("../images/testimonial/testimonial-bg.png");
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
