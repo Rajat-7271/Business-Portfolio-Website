@@ -542,7 +542,7 @@
 
         /* 08 Footer CSS */
         .footer_wrapper {
-            background: url("/images/footer-bg/footer_bg.png");
+            background: url("../images/footer-bg/footer_bg.png");
             background-size: cover;
             background-repeat: no-repeat;
             background-position: top center;
